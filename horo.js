@@ -1,4 +1,4 @@
-const myNumber = 1; // January
+const myNumber = 4;
 let sign = "";
 let symbol = "";
 let fortunes = [];
